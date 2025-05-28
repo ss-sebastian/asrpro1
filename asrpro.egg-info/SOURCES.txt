@@ -1,0 +1,8 @@
+README.md
+setup.py
+asrpro.egg-info/PKG-INFO
+asrpro.egg-info/SOURCES.txt
+asrpro.egg-info/dependency_links.txt
+asrpro.egg-info/entry_points.txt
+asrpro.egg-info/requires.txt
+asrpro.egg-info/top_level.txt

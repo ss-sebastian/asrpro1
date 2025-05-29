@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="asrpro",
-    version="0.1.2",  # 更新版本号
+    version="0.2.1",  # 更新版本号
     packages=find_packages(),
     install_requires=[
         "pydub>=0.25.1",

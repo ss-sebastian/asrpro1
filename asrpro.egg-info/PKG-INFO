@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: asrpro
-Version: 0.1.0
+Version: 0.1.2
 Summary: ASR Audio Preprocessor - Optimize audio files for child speech recognition
 Home-page: https://github.com/ss-sebastian/asrpro
 Author: Chuqiao 'Sebastian' Song

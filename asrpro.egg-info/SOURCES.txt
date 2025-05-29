@@ -1,5 +1,9 @@
 README.md
 setup.py
+asrpro/__init__.py
+asrpro/__main__.py
+asrpro/cli.py
+asrpro/processor.py
 asrpro.egg-info/PKG-INFO
 asrpro.egg-info/SOURCES.txt
 asrpro.egg-info/dependency_links.txt
